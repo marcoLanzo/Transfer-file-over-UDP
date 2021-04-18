@@ -1,6 +1,0 @@
-Decamerone.txt
-OrlandoFurioso.txt
-Divina.txt
-Vuoto.txt
-Autori_Progetto.txt
-Bibbia.txt

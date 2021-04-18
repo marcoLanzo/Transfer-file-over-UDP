@@ -1,1 +1,0 @@
-/usr/bin/cc  -pthread -g   CMakeFiles/Client.dir/Client/Client.c.o  -o Client 

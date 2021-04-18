@@ -1,1 +1,0 @@
-/usr/bin/cc  -pthread -g   CMakeFiles/IIW2.dir/Server/Server.c.o  -o IIW2 
