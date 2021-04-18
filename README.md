@@ -32,7 +32,7 @@ they are displayed from the server to the client in response to a command with t
 
 # Run the Project: 
 Following the steps listed below you can run the code on your device: 
-- take the "IIW" compressed file and move it within your file system.
+- take the "Transfer-file-over-UDP" compressed file and move it within your file system.
 - unzip the folder.
 - open the “code” folder.
 - open two separate terminals and go to the right folder.
