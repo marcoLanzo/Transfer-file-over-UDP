@@ -1,0 +1,5 @@
+/home/lombi/Scaricati/IIW2_final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lombi/Scaricati/IIW2_final/cmake-build-debug/CMakeFiles/IIW2.dir
+/home/lombi/Scaricati/IIW2_final/cmake-build-debug/CMakeFiles/Server.dir
+/home/lombi/Scaricati/IIW2_final/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lombi/Scaricati/IIW2_final/cmake-build-debug/CMakeFiles/Client.dir
