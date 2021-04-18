@@ -12,8 +12,10 @@ The main aim of this project is to realize and implement a Client-Server applica
 
 Communication between client and server takes place via an appropriate protocol. The communication protocol provides for the exchange of two types of messages:
 
-### - command messages: they are displayed from the client to the server for the execution of the various operations.
-### - response messages: they are displayed from the server to the client in response to a command with the outcome of the operation.
+### - command messages: 
+they are displayed from the client to the server for the execution of the various operations.
+### - response messages: 
+they are displayed from the server to the client in response to a command with the outcome of the operation.
 
 # Server features:
 
